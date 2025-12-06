@@ -1,0 +1,5 @@
+{
+  "name": "FinPlan BE - Financial Wizard",
+  "description": "An enterprise-grade financial planning wizard for Belgian companies (BV/NV), featuring real-time compliance checks, financial projections, and strict validation logic.",
+  "requestFramePermissions": []
+}
